@@ -1,6 +1,6 @@
 ---
 name: git-github-conventions
-description: Git and GitHub conventions for small projects (Go and Node apps on Google Cloud): commit message format, what to stage and what never to commit, .gitignore baselines, branches, pull requests and secret hygiene. Use when committing, writing commit messages or PR descriptions, setting up a repo or .gitignore, pushing to GitHub, or when a change might include secrets or key files.
+description: Git and GitHub conventions for small Go and Node projects on Google Cloud, covering commit message format, what to stage and what never to commit, .gitignore baselines, branches, pull requests and secret hygiene. Use when committing, writing commit messages or PR descriptions, setting up a repo or .gitignore, pushing to GitHub, or when a change might include secrets or key files.
 ---
 
 # Git and GitHub conventions
